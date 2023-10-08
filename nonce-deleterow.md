@@ -22,7 +22,9 @@ $(".delete-btn").on("click", function () {
 ```
 
   ## php
-    ```php
+ 
+  ```php
+
     function delete_form_row()
         {
             global $wpdb;
